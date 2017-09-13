@@ -77,7 +77,8 @@ img {
 		display: table;
 		table-layout: fixed;
 		width: 100%;
-		color: #BB5500 
+		color: #BB5500 ;
+		font-family:"楷体"
 ;
 	}
 
