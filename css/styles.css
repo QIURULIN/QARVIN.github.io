@@ -8,7 +8,7 @@ body {
 	line-height: 1.2;
 	max-width: 60rem;
 	margin: 0 auto;
-	color: #333;
+	color: #0000CD ;
 }
 
 img {
@@ -20,6 +20,7 @@ img {
 	border-bottom: 8px double #f9f9f9;
 	margin-bottom: 2rem;
 	padding-bottom: 1rem;
+	color: #DAA520  ;
 }
 
 .Strap {
@@ -61,7 +62,7 @@ img {
 	display: block;
 	text-align: center;
 	margin: 1rem 0 .5rem 0;
-	color: #eee;
+	color: 	#666666;
 }
 
 @media screen and (min-width: 50rem) {
@@ -69,12 +70,15 @@ img {
 		border-left: 4px solid #f9f9f9;
 		border-right: 4px solid #f9f9f9;
 		padding: 1rem 2rem;
+		color: #99FF99;
 	}
 
 	.IntroWrapper {
 		display: table;
 		table-layout: fixed;
 		width: 100%;
+		color: #BB5500 
+;
 	}
 
 	.MoneyShot,
@@ -83,6 +87,7 @@ img {
 		width: 50%;
 		vertical-align: middle;
 		text-align: center;
+		color: 	#E63F00;
 	}
 
 	.IntroText {
@@ -90,6 +95,7 @@ img {
 		font-size: 2.5rem;
 		text-align: left;
 		position: relative;
+		color: #FF0000;
 	}
 
 	.大事件 {
@@ -100,6 +106,7 @@ img {
 		border-radius: 3px;
 		background-color: #ffffdf;
 		border: 2px solid #e8cfa9;
+		color: #FFC0CB;
 	}
 
 	.大事件 h3 {
