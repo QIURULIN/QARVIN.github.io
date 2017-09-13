@@ -92,7 +92,7 @@ img {
 		position: relative;
 	}
 
-	.Ingredients {
+	.大事件 {
 		font-size: .9rem;
 		float: right;
 		padding: 1rem;
@@ -102,7 +102,7 @@ img {
 		border: 2px solid #e8cfa9;
 	}
 
-	.Ingredients h3 {
+	.大事件 h3 {
 		margin: 0;
 	}
 }
