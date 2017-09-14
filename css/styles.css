@@ -21,11 +21,11 @@ img {
 	margin-bottom: 2rem;
 	padding-bottom: 1rem;
 	color: #DAA520  ;
-	font-family:"宋体;
 }
 
 .Strap {
 	font-size: 1rem;
+	font-family:"宋体;
 }
 
 
@@ -108,7 +108,7 @@ img {
 		border-radius: 3px;
 		background-color: #ffffdf;
 		border: 2px solid #e8cfa9;
-		color: 	#000000;
+		color: 	#E63F00;
 	}
 
 	.大事件 h3 {
