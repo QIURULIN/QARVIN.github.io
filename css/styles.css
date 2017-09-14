@@ -21,6 +21,7 @@ img {
 	margin-bottom: 2rem;
 	padding-bottom: 1rem;
 	color: #DAA520  ;
+	font-family:"宋体;
 }
 
 .Strap {
@@ -51,6 +52,7 @@ img {
 .IntroText {
 	font-size: 1.8rem;
 	font-style: normal;
+	font-family:"黑体;
 }
 
 .MethodWrapper li {
@@ -70,7 +72,7 @@ img {
 		border-left: 4px solid #f9f9f9;
 		border-right: 4px solid #f9f9f9;
 		padding: 1rem 2rem;
-		color: #99FF99;
+		color: #A42D00 ;
 	}
 
 	.IntroWrapper {
