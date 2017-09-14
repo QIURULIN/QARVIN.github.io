@@ -50,7 +50,7 @@ img {
 
 .IntroText {
 	font-size: 1.8rem;
-	font-style: italic;
+	font-style: normal;
 }
 
 .MethodWrapper li {
@@ -62,7 +62,7 @@ img {
 	display: block;
 	text-align: center;
 	margin: 1rem 0 .5rem 0;
-	color: 	#666666;
+	color: 	#2200AA ;
 }
 
 @media screen and (min-width: 50rem) {
